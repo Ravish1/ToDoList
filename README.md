@@ -1,4 +1,4 @@
-# to_do_assignment
+# to_do_app
 
 This App is built in Flutter (Dart) a simple app which creates ToDo also shows all ToDO list along with 
 option to Change TO Do status Complete or Active.Also added a checkbox to Mark all task done with single check.
