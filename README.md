@@ -8,3 +8,7 @@ Followed Solid Principles.
 
 
 
+
+
+https://github.com/user-attachments/assets/1f67bd00-c083-44f7-8de5-d429c8457949
+
