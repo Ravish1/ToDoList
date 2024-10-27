@@ -1,16 +1,10 @@
 # to_do_assignment
 
-A new Flutter project.
+This App is built in Flutter (Dart) a simple app which creates ToDo also shows all ToDO list along with 
+option to Change TO Do status Complete or Active.Also added a checkbox to Mark all task done with single check.
+No SetState used through out the app.
+StateManager -Flutter Bloc
+Followed Solid Principles.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
